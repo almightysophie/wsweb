@@ -4,6 +4,6 @@
 <a href="https://almightysophie.github.io/carl-dair/" >Carl Dair Exercise2</a>
  </body>
  <bk></bk>
-<body> <a href="https:// https://almightysophie.github.io/stylepicty/" >napa exercise Type + Image</a> https://almightysophie.github.io/stylepicty/
+<body> <a href="https:// https://almightysophie.github.io/stylepicty/" >napa exercise Type + Image</a> 
 </body>
 </html>

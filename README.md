@@ -13,5 +13,11 @@
 <p>
 <a href="https://posterexe.glitch.me" >poster exercise</a> </p>
 
+<bk>.</bk>
+
+<p>
+<a href="https://almightysophie.github.io/project1-/" >project1:: sepπ</a> </p>
+
+
 </body>
 </html>

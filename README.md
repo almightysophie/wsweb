@@ -18,6 +18,13 @@
 <p>
 <a href="https://almightysophie.github.io/project1-/" >project1:: sepπ</a> </p>
 
+<bk>.</bk>
+
+<p>
+    <a href="https://almightysophie.github.io/dynamiccomposition/" >Exercise6.animationr</a> 
+    </p>
+    
+
 
 </body>
 </html>

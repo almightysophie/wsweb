@@ -21,7 +21,13 @@
 <bk>.</bk>
 
 <p>
-    <a href="https://almightysophie.github.io/dynamiccomposition/" >Exercise6.animationr</a> 
+    <a href="https://almightysophie.github.io/dynamiccomposition/" >Exercise6.animation</a> 
+    </p>
+
+<bk>.</bk>
+
+<p>
+    <a href=" https://almightysophie.github.io/project2/" >project2</a> 
     </p>
     
 

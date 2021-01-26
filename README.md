@@ -32,7 +32,7 @@
     
  <bk>.</bk>
 <p>
-        <a href="  https://industrious-nickel-methane.glitch.me" >Exercise7;java intro</a> 
+        <a href="  https://industrious-nickel-methane.glitch.me" >Exercise7.java intro</a> 
         </p>
 
    

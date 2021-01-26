@@ -30,7 +30,12 @@
     <a href=" https://almightysophie.github.io/project2/" >project2</a> 
     </p>
     
+ <bk>.</bk>
+<p>
+        <a href="  https://industrious-nickel-methane.glitch.me" >Exercise7;java intro</a> 
+        </p>
 
+   
 
 </body>
 </html>

@@ -37,7 +37,7 @@
 
  <bk>.</bk>
 <p>
-     <a href="https://almightysophie.github.io/java8/" >Exercise8.java path game</a> 
+     <a href="https://almightysophie.github.io/java8/" >Exercise8</a> 
       </p>
 
 <bk>.</bk>
@@ -45,6 +45,11 @@
      <a href="https://almightysophie.github.io/java8/" >Exercise9</a> 
       </p>
         
+ <bk>.</bk>
+  <p>
+      <a href="https://almightysophie.github.io/exercise10/" >Exercise10</a> 
+      </p>
+
 
 
    

@@ -49,6 +49,23 @@
   <p>
       <a href="https://almightysophie.github.io/exercise10/" >Exercise10</a> 
       </p>
+      
+<bk>.</bk>
+      <p>
+          <a href="https://almightysophie.github.io/project3/" >Exercise11</a> 
+          </p>
+
+ <bk>.</bk>
+  <p>
+      <a href="https://almightysophie.github.io/project3/" >Exercise12</a> 
+      </p>
+
+
+ <bk>.</bk>
+  <p>
+      <a href="https://almightysophie.github.io/project3/" >project3</a> 
+      </p>
+      
 
 
 
